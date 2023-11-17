@@ -1,5 +1,6 @@
 fun main() {
-    println(divide(8,6))
+    val a = divide(8,6)
+    print(a)
 }
 /**
  * Buatlah contoh code penggunaan try catch untuk menangani suatu kasus sesuai keinginan teman-teman
